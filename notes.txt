@@ -1,0 +1,6 @@
+- next.js als framework + tailwind, ist praktisch
+- nav bar wichtig, kann man anlegen unter components
+- eigenen folder unter pages -> root
+- navigation wird über folder structure geregelt
+- check out the next.js docs
+
